@@ -1,0 +1,3 @@
+C:\Users\Rick\Documents\GitHub\TIFF-Everything\TIFF Image\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Documents\GitHub\TIFF-Everything\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\GitHub\TIFF-Everything\TIFF Image\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
